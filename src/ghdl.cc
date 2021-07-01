@@ -27,7 +27,7 @@ USING_YOSYS_NAMESPACE
 
 #ifdef YOSYS_ENABLE_GHDL
 
-#include "ghdl/synth.h"
+#include "ghdlsynth.h"
 
 using namespace GhdlSynth;
 
